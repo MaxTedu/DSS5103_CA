@@ -1,0 +1,14 @@
+pandas
+geopandas
+pyproj
+shapely
+folium
+scipy
+numpy
+osmnx
+networkx
+plotly
+matplotlib
+seaborn
+openpyxl
+tqdm
